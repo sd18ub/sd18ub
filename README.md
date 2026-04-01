@@ -1,4 +1,4 @@
-# Salut, c'est Kyliann 👋😄
+# Salut, c'est Kyliann 
 
 Étudiant en **BTS CIEL** et passionné par tout ce qui touche à l'informatique !  
 Mon objectif : devenir **administrateur systèmes et réseaux** et travailler sur des infrastructures fiables et sécurisées.  
