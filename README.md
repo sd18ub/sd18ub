@@ -19,7 +19,7 @@ En attendant, je passe mon temps à apprendre, bidouiller et lancer de nouveaux 
 ## ⚙️ Frameworks / Bibliothèques
 
 <p>
-<img src="https://skillicons.dev/icons?i=qt,vue" />
+<img src="https://skillicons.dev/icons?i=qt" />
 </p>
 
 (+ autres bibliothèques utilisées dans mes projets)
