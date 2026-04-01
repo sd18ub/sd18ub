@@ -45,7 +45,7 @@ En attendant, je passe mon temps à apprendre, bidouiller et lancer de nouveaux 
 ## ⚡ Éditeurs
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,clion,webstorm,androidstudio" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,clion,webstorm,codeblocks" />
 </p>
 
 ---
