@@ -11,7 +11,7 @@ En attendant, je passe mon temps à apprendre, bidouiller et lancer de nouveaux 
 ## 💻 Langages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,php,html,css,js" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,php,html,css,js" />
 </p>
 
 ---
