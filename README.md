@@ -29,7 +29,7 @@ En attendant, je passe mon temps à apprendre, bidouiller et lancer de nouveaux 
 ## 🔧 Outils
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,mysql,webpack,vscode,discord" />
+<img src="https://skillicons.dev/icons?i=git,docker,mysql,vscode,discord,apache" />
 </p>
 
 ---
